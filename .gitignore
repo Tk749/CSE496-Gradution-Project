@@ -1,10 +1,10 @@
-# Python dosyaları
+# Python
 *.py
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Jupyter Notebook dosyaları
+# Jupyter Notebook 
 *.ipynb
 *.ipynb_checkpoints/
